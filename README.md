@@ -1,6 +1,6 @@
 # Solana Agent Prototype App
 
-[![Solana Agent](https://dl.walletbubbles.com/solana-agent-logo.png?width=200)](https://solana-agent.com)
+[![Solana Agent](https://i.imgur.com/XMZwDQD.png)](https://solops.live)
 
 ## Batteries Included
 * Provides a sample and working implementation for Solana Agent
