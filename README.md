@@ -10,7 +10,7 @@
 ## Local Dev
 
 ###  Run locally on Mac or Linux
-* Clone this repo - `git clone https://github.com/truemagic-coder/solana-agent-app`
+* Clone this repo - `https://github.com/SolanaOpsAgent/solana-agent-app.git`
 * Ensure the latest LTS Node is installed with yarn
 * Ensure Python 3.13.2 is installed with poetry
 * Ensure Docker and Docker Compose are installed
@@ -39,7 +39,7 @@
 * [Solana Agent](https://github.com/SolanaOpsAgent/solana-agent)
 
 ## Contributing
-Contributions to Solana Agent Example App are welcome! Please feel free to submit a Pull Request.
+Contributions to Solana Agent Prototype App are welcome! Please feel free to submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
