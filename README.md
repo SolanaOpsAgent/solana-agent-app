@@ -43,3 +43,5 @@ Contributions to Solana Agent Prototype App are welcome! Please feel free to sub
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
